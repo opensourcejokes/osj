@@ -1,4 +1,4 @@
-Hi, I'm starting to write ande perform stand-up. I've started this git repository to
+Hi, I'm starting to write and perform stand-up. I've started this git repository to
 track my jokes (/jokes/*.tex) and my sets, so I can have a complete
 picture of how they change over time as I perform them. I'll also be
 able to see how my sets change: which jokes are kept or removed, and
